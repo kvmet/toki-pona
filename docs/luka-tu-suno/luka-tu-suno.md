@@ -17,13 +17,16 @@
 
 ## Summary Table
 This table contains all viable variants of toki pona syllables
-vowel | - | k | t | p | j | l | w | n | m | s
+vowel | . | k | t | p | j | l | w | n | m | s
 ---   |---|---|---|---|---|---|---|---|---|---
-a |![a](./sitelen/a.png) | ![ka](./sitelen/ka.png) | ![ta](./sitelen/ta.png) | ![pa](./sitelen/pa.png) | ![ja](./sitelen/ja.png) | ![la](./sitelen/la.png) | ![ma](./sitelen/ma.png) | ![wa](./sitelen/wa.png) | ![na](./sitelen/na.png) | ![sa](./sitelen/sa.png)
-e (wan) |![e-wan](./sitelen/e-wan.png) | ![ke-wan](./sitelen/ke-wan.png) | ![te-wan](./sitelen/te-wan.png) | ![pe-wan](./sitelen/pe-wan.png) | ![je-wan](./sitelen/je-wan.png) | ![le-wan](./sitelen/le-wan.png) | ![me-wan](./sitelen/me-wan.png) | ![we-wan](./sitelen/we-wan.png) | ![ne-wan](./sitelen/ne-wan.png) | ![se-wan](./sitelen/se-wan.png)
-e (tu) |![e-tu](./sitelen/e-tu.png) | ![ke-tu](./sitelen/ke-tu.png) | ![te-tu](./sitelen/te-tu.png) | ![pe-tu](./sitelen/pe-tu.png) | ![je-tu](./sitelen/je-tu.png) | ![le-tu](./sitelen/le-tu.png) | ![me-tu](./sitelen/me-tu.png) | ![we-tu](./sitelen/we-tu.png) | ![ne-tu](./sitelen/ne-tu.png) | ![se-tu](./sitelen/se-tu.png)
-i (wan) |![i-wan](./sitelen/i-wan.png) | ![ki-wan](./sitelen/ki-wan.png) | ![ti-wan](./sitelen/ti-wan.png) | ![pi-wan](./sitelen/pi-wan.png) | ![ji-wan](./sitelen/ji-wan.png) | ![li-wan](./sitelen/li-wan.png) | ![mi-wan](./sitelen/mi-wan.png) | ![wi-wan](./sitelen/wi-wan.png) | ![ni-wan](./sitelen/ni-wan.png) | ![si-wan](./sitelen/si-wan.png)
-i (tu) |![e-tu](./sitelen/e-tu.png) | ![ke-tu](./sitelen/ke-tu.png) | ![te-tu](./sitelen/te-tu.png) | ![pe-tu](./sitelen/pe-tu.png) | ![je-tu](./sitelen/je-tu.png) | ![le-tu](./sitelen/le-tu.png) | ![me-tu](./sitelen/me-tu.png) | ![we-tu](./sitelen/we-tu.png) | ![ne-tu](./sitelen/ne-tu.png) | ![se-tu](./sitelen/se-tu.png)
+. | | | | | | | | ![n](./sitelen/n.png) | | 
+a |![a](./sitelen/a.png) | ![ka](./sitelen/ka.png) | ![ta](./sitelen/ta.png) | ![pa](./sitelen/pa.png) | ![ja](./sitelen/ja.png) | ![la](./sitelen/la.png) | ![wa](./sitelen/wa.png) | ![na](./sitelen/na.png) | ![ma](./sitelen/ma.png) | ![sa](./sitelen/sa.png)
+e (wan) |![e-wan](./sitelen/e-wan.png) | ![ke-wan](./sitelen/ke-wan.png) | ![te-wan](./sitelen/te-wan.png) | ![pe-wan](./sitelen/pe-wan.png) | ![je-wan](./sitelen/je-wan.png) | ![le-wan](./sitelen/le-wan.png) | ![we-wan](./sitelen/we-wan.png) | ![ne-wan](./sitelen/ne-wan.png) | ![me-wan](./sitelen/me-wan.png) | ![se-wan](./sitelen/se-wan.png)
+e (tu) |![e-tu](./sitelen/e-tu.png) | ![ke-tu](./sitelen/ke-tu.png) | ![te-tu](./sitelen/te-tu.png) | ![pe-tu](./sitelen/pe-tu.png) | ![je-tu](./sitelen/je-tu.png) | ![le-tu](./sitelen/le-tu.png) | ![we-tu](./sitelen/we-tu.png) | ![ne-tu](./sitelen/ne-tu.png) | ![me-tu](./sitelen/me-tu.png) | ![se-tu](./sitelen/se-tu.png)
+i (wan) |![i-wan](./sitelen/i-wan.png) | ![ki-wan](./sitelen/ki-wan.png) | ![ti](./sitelen/ti.png) | ![pi-wan](./sitelen/pi-wan.png) | ![ji-wan](./sitelen/ji-wan.png) | ![li-wan](./sitelen/li-wan.png) | ![wi-wan](./sitelen/wi-wan.png) | ![ni-wan](./sitelen/ni-wan.png) | ![mi-wan](./sitelen/mi-wan.png) | ![si-wan](./sitelen/si-wan.png)
+i (tu) |![i-tu](./sitelen/i-tu.png) | ![ki-tu](./sitelen/ki-tu.png) | | | ![ji-tu](./sitelen/ji-tu.png) | ![li-tu](./sitelen/li-tu.png) | ![wi-tu](./sitelen/wi-tu.png) | ![ni-tu](./sitelen/ni-tu.png) | ![mi-tu](./sitelen/mi-tu.png) | ![si-tu](./sitelen/si-tu.png)
+o |![o](./sitelen/o.png) | ![ko](./sitelen/ko.png) | ![to](./sitelen/to.png) | ![po](./sitelen/po.png) | ![jo](./sitelen/jo.png) | ![lo](./sitelen/lo.png) | ![wo](./sitelen/wo.png) | ![no](./sitelen/no.png) | ![mo](./sitelen/mo.png) | ![so](./sitelen/so.png)
+u |![u](./sitelen/u.png) | ![ku](./sitelen/ku.png) | ![tu](./sitelen/tu.png) | ![pu](./sitelen/pu.png) | ![ju](./sitelen/ju.png) | ![lu](./sitelen/lu.png) | ![wu](./sitelen/wu.png) | ![nu](./sitelen/nu.png) | ![mu](./sitelen/mu.png) | ![su](./sitelen/su.png)
 
 ## Vowels
 ![Vowel Segments](./sitelen/u.png)
