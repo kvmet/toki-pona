@@ -1,13 +1,13 @@
 # Project information
-site_name: SuChron
-site_url: https://github.com/kvmet/SuChron
+site_name: toki pona projects
+site_url: https://github.com/kvmet/toki-pona
 site_author: Kristen Metcalfe
 site_description: >-
-  A more expressive thing somewhat similar to chron
+  assorted projects centered around toki pona
 
 # Repository
-repo_name: kvmet/SuChron
-repo_url: https://github.com/kvmet/SuChron
+repo_name: kvmet/toki-pona
+repo_url: https://github.com/kvmet/toki-pona
 
 # Copyright
 copyright: Copyright &copy; Kristen Metcalfe
@@ -130,5 +130,4 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting Started:
-    - Syntax: syntax.md
+  - Writing System: luka-tu-suno/luka-tu-suno.md

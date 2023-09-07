@@ -16,9 +16,10 @@ The summaries are presented at the top as a matter of convenience. I highly reco
 ---
 ## summary table
 This table contains all viable variants of toki pona syllables
+
 vowel | . | k | t | p | j | l | w | n | m | s
 ---   |---|---|---|---|---|---|---|---|---|---
-. | | | | | | | | ![n](./sitelen/n.png) | | 
+. | | | | | | | | ![n](./sitelen/n.png) |
 a |![a](./sitelen/a.png) | ![ka](./sitelen/ka.png) | ![ta](./sitelen/ta.png) | ![pa](./sitelen/pa.png) | ![ja](./sitelen/ja.png) | ![la](./sitelen/la.png) | ![wa](./sitelen/wa.png) | ![na](./sitelen/na.png) | ![ma](./sitelen/ma.png) | ![sa](./sitelen/sa.png)
 e (wan) |![e-wan](./sitelen/e-wan.png) | ![ke-wan](./sitelen/ke-wan.png) | ![te-wan](./sitelen/te-wan.png) | ![pe-wan](./sitelen/pe-wan.png) | ![je-wan](./sitelen/je-wan.png) | ![le-wan](./sitelen/le-wan.png) | ![we-wan](./sitelen/we-wan.png) | ![ne-wan](./sitelen/ne-wan.png) | ![me-wan](./sitelen/me-wan.png) | ![se-wan](./sitelen/se-wan.png)
 e (tu) |![e-tu](./sitelen/e-tu.png) | ![ke-tu](./sitelen/ke-tu.png) | ![te-tu](./sitelen/te-tu.png) | ![pe-tu](./sitelen/pe-tu.png) | ![je-tu](./sitelen/je-tu.png) | ![le-tu](./sitelen/le-tu.png) | ![we-tu](./sitelen/we-tu.png) | ![ne-tu](./sitelen/ne-tu.png) | ![me-tu](./sitelen/me-tu.png) | ![se-tu](./sitelen/se-tu.png)
